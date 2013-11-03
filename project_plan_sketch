@@ -1,0 +1,51 @@
+Split of the work:
+We plan to work on all the tasks together, however
+I have more Python experience -> I will have more influence here
+Gena has more networking experience -> he will rule here
+
+How much time -> as much as it needs. However, we plan to have about 8 hours per week to sure that we will succeed. If we finish eariler - than good for us
+
+Difficulties:
+1. very biased experiece in a team -> at least first time we will have to work in a pair programmng manner in order to balance it.
+2. Rather than that we do not see any other difficulties. Probably that is because of the fact that we are not enough profficient in this area so far.
+
+Questions:
+1. What's the output mininet_tlp_measurement.py?
+
+
+Milestone 2
+* Make ourselves familiar with Mininet Python API November 14
+* Play around mininet using tutorial provided on the official website November 16
+* Code mininet_tlp_measurement.py
+  - Simple network topology November 18
+  - TCP transfer November 19
+  - Record traffic November 20
+* Analyze achieved results November 21
+* Write little report for ourselves about the work done November 22
+* Clean and document code if necessary to be able to have future extenstions November 24
+* Make final submission November 26
+
+Milestone 3
+* Read papers about tail loss and tail loss probe algorithm November 30
+* Read about TLP implementation in Linux December 1
+* Code drop_tail.py December 4
+* Make ourselves familiar with Netﬁlter Queues December 6
+* integrate mininet_tlp_measurement.py and drop_tail.py December 10
+* Analyze achieved results December 15
+* Write short sketch of the work done December 16
+* Clean and document code if necessary to be able to have future extenstions December 16
+* Make final submission December 17
+
+Milestone 4
+* Code tcp_analysis.py December 25
+* Generate significant amount of measurements January 5
+* Code automatic measurement tool January 8
+* Code tool for automatic visualization of all the data January 11
+* Analyize and evaluate the effect of TLP January 17
+* Write short sketch of the work done January 18
+* Make final submission January 21
+
+Milestone 5
+* Refresh sketches made during work on Milestones 1-4 January 25
+* Write the report January 30
+* submit and provide feedback February 4
